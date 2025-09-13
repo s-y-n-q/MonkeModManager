@@ -38,7 +38,11 @@
       "gitPath": "DecalFree/ComputerInterface",
       "releaseId": 1,
       "author": "DecalFree",
-      "group": "Gameplay"
+      "group": "Gameplay",
+      "dependencies": [
+        "Extenject",
+        "Bepinject"
+      ]
     },
     {
       "name": "Bepinject",
@@ -47,7 +51,10 @@
       "releaseId": 0,
       "author": "Auros",
       "group": "Libraries",
-      "installPath": "BepInEx/plugins"
+      "installPath": "BepInEx/plugins",
+      "dependencies": [
+        "Extenject"
+      ]
     },
     {
       "name": "Extenject",
