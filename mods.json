@@ -1,38 +1,78 @@
 {
-   "mods" : [
-      {
-         "name" : "BepInEx",
-         "tag" : "",
-         "gitPath" : "BepInEx/BepInEx",
-         "releaseId" : 1,
-         "author" : "BepInEx Team",
-         "group" : "Core"
-      },
-      {
-         "name" : "iis.Stupid.Menu",
-         "tag" : "",
-         "gitPath" : "iiDk-the-actual/iis.Stupid.Menu",
-         "releaseId" : 1,
-         "author" : "iiDk-the-actual",
-         "group" : "Gameplay"
-      }
-   ],
-   "groups" : [
-     {
-       "name" : "Core",
-       "rank" : 0
-     },
-     {
-       "name" : "Cosmetic",
-       "rank" : 1
-     },
-     {
-       "name" : "Gameplay",
-       "rank" : 2
-     },
-     {
-       "name" : "Libraries",
-       "rank" : 3
-     }
-   ]
+  "mods": [
+    {
+      "name": "BepInEx",
+      "tag": "",
+      "gitPath": "BepInEx/BepInEx",
+      "releaseId": 1,
+      "author": "BepInEx Team",
+      "group": "Core"
+    },
+    {
+      "name": "iis.Stupid.Menu",
+      "tag": "",
+      "gitPath": "iiDk-the-actual/iis.Stupid.Menu",
+      "releaseId": 1,
+      "author": "iiDk-the-actual",
+      "group": "Gameplay"
+    },
+    {
+      "name": "GorillaShirts",
+      "tag": "",
+      "gitPath": "developer9998/GorillaShirts",
+      "releaseId": 1,
+      "author": "developer9998",
+      "group": "Cosmetic"
+    },
+    {
+      "name": "BingusNametags",
+      "tag": "",
+      "gitPath": "sirkingbinx/BingusNametags",
+      "releaseId": 1,
+      "author": "sirkingbinx",
+      "group": "Gameplay"
+    },
+    {
+      "name": "ComputerInterface",
+      "tag": "",
+      "gitPath": "DecalFree/ComputerInterface",
+      "releaseId": 1,
+      "author": "DecalFree",
+      "group": "Gameplay"
+    },
+    {
+      "name": "Bepinject",
+      "tag": "",
+      "gitPath": "Auros/Bepinject",
+      "releaseId": 1,
+      "author": "Auros",
+      "group": "Libraries"
+    },
+    {
+      "name": "Extenject",
+      "tag": "",
+      "gitPath": "Auros/Bepinject",
+      "releaseId": 1,
+      "author": "Auros",
+      "group": "Libraries"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Core",
+      "rank": 0
+    },
+    {
+      "name": "Cosmetic",
+      "rank": 1
+    },
+    {
+      "name": "Gameplay",
+      "rank": 2
+    },
+    {
+      "name": "Libraries",
+      "rank": 3
+    }
+  ]
 }
