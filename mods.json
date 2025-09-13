@@ -44,9 +44,10 @@
       "name": "Bepinject",
       "tag": "",
       "gitPath": "Auros/Bepinject",
-      "releaseId": 1,
+      "releaseId": 0,
       "author": "Auros",
-      "group": "Libraries"
+      "group": "Libraries",
+      "installPath": "BepInEx/plugins"
     },
     {
       "name": "Extenject",
@@ -54,7 +55,8 @@
       "gitPath": "Auros/Bepinject",
       "releaseId": 1,
       "author": "Auros",
-      "group": "Libraries"
+      "group": "Libraries",
+      "installPath": "BepInEx/plugins"
     }
   ],
   "groups": [
