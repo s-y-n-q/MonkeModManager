@@ -64,6 +64,14 @@
       "author": "Auros",
       "group": "Libraries",
       "installPath": "BepInEx/plugins"
+    },
+    {
+      "name": "Ngbatz's Sub Board",
+      "tag": "",
+      "gitPath": "NgbatzYT/NgbatzSubBoard",
+      "releaseId": 1,
+      "author": "NgbatzYT",
+      "group": "Gameplay"
     }
   ],
   "groups": [
