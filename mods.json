@@ -7,6 +7,14 @@
          "releaseId" : 1,
          "author" : "BepInEx Team",
          "group" : "Core"
+      },
+      {
+         "name" : "iis.Stupid.Menu",
+         "tag" : "",
+         "gitPath" : "iiDk-the-actual/iis.Stupid.Menu",
+         "releaseId" : 1,
+         "author" : "iiDk-the-actual",
+         "group" : "Gameplay"
       }
    ],
    "groups" : [
