@@ -9,7 +9,7 @@
       "group": "Core"
     },
     {
-      "name": "ii's' Stupid Menu",
+      "name": "iis.Stupid.Menu",
       "tag": "",
       "gitPath": "iiDk-the-actual/iis.Stupid.Menu",
       "releaseId": 1,
@@ -17,7 +17,7 @@
       "group": "Gameplay"
     },
     {
-      "name": "Gorilla Shirts",
+      "name": "GorillaShirts",
       "tag": "",
       "gitPath": "developer9998/GorillaShirts",
       "releaseId": 1,
@@ -25,7 +25,7 @@
       "group": "Cosmetic"
     },
     {
-      "name": "Bingus Nametags",
+      "name": "BingusNametags",
       "tag": "",
       "gitPath": "sirkingbinx/BingusNametags",
       "releaseId": 1,
@@ -33,7 +33,7 @@
       "group": "Gameplay"
     },
     {
-      "name": "Computer Interface",
+      "name": "ComputerInterface",
       "tag": "",
       "gitPath": "DecalFree/ComputerInterface",
       "releaseId": 1,
@@ -66,7 +66,7 @@
       "installPath": "BepInEx/plugins"
     },
     {
-      "name": "Ngbatz's Sub Board",
+      "name": "NgbatzSubBoard",
       "tag": "",
       "gitPath": "NgbatzYT/NgbatzSubBoard",
       "releaseId": 1,
