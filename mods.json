@@ -71,7 +71,8 @@
       "gitPath": "NgbatzYT/NgbatzSubBoard",
       "releaseId": 1,
       "author": "NgbatzYT",
-      "group": "Gameplay"
+      "group": "Gameplay",
+      "installPath": "BepInEx/plugins"
     }
   ],
   "groups": [
